@@ -1,0 +1,58 @@
+.buttomline{
+    height: 0px;
+    width: 80vw;
+    border: 2px solid black;
+    position: absolute;
+    top: 80%;
+}
+.topline{
+    height: 0px;
+    width: 80vw;
+    border: 2px solid black;
+    position: absolute;
+    top: 5%;
+}
+.rightline{
+    width: 0px;
+    border: 2px solid black;
+    height: 75vh;
+    position: absolute;
+    top: 5%;
+    left: 81vw;
+}
+#buttomrod{
+    position: absolute;
+    left: 30px;
+    top: 77%;
+}
+#toprod{
+    position: absolute;
+    left: 30px;
+    top: 5%;
+}
+.container{
+    height: 20px;
+    width: 200px;
+    background-color: green;
+    border: 1px solid green;
+    border-radius: 20px;
+}
+#ball{
+    height: 20px;
+    width: 20px;
+    background-color: brown;
+    border-radius: 50%;
+    position: absolute;
+    top: 74%;
+    left: 9%;
+}
+
+
+
+
+/* .animation{
+    background-color: red;
+    position: absolute;
+    left: 80px;
+    transition: all 0.5s;
+} */
